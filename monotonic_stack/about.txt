@@ -1,0 +1,10 @@
+MONOTONIC STACK: 
+https://www.geeksforgeeks.org/dsa/introduction-to-monotonic-stack-2/
+
+Practice Problem on Monotonic Stack
+    Stock Span Problem
+    Largest Rectangle in Histogram
+    Trapping Rain Water
+    Find next Smaller of next Greater in an array
+    Expression Evaluation
+    Lowest Number by Removing k digits
