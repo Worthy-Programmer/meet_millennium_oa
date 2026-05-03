@@ -12,7 +12,7 @@ Preparation for Meet Millennium OA.
 5. Monotonic Stack - Partially Done
 
 ### BREADCRUMBS (3-5-26, 2:25 am)
-1. Do more harder questions on Montonice Stacks
+1. Do more harder questions on Montonic Stacks - Done
 2. Start Doing Graph (Focus on OB PDSA Course) in IITM
 3. Look at IMC Launchpad questions once more.
 4. Learn SQL, Probability
